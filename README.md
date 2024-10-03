@@ -1,3 +1,5 @@
+Heavily inspired by [mayorx's](https://github.com/mayorx/hungarian-algorithm) python script of the hungarian-algorithm
+
 # Godot-Hungarian-Algorithm
 A quick implementation of Kuhn-Munkres algorithm in Godot 4.3
 
